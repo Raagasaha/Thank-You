@@ -1,0 +1,32 @@
+#heading {
+ font-family:Verdana, Geneva, Tahoma, sans-serif;
+ font-size: 55px;   
+ color: blueviolet;
+}
+
+#envelope_pic {
+    width: 60%;
+    height: 100%;
+}
+
+#button {
+    background-color: bisque;
+    font-size: 25px;
+    font-family:monospace;
+}
+
+h2 {
+color: black;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: plum;
+    line-height: 3;
+    text-align: center;
+    box-shadow: 3px 3px 3px orange;
+  }
